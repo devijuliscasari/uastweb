@@ -3,7 +3,9 @@ import PropTypes from 'prop-types';
 
 import './movie-list.scss';
 
-import { Swiper, SwiperSlide } from 'swiper/react/swiper-react.js';
+import { Swiper, SwiperSlide } from "swiper/react";
+import 'swiper/swiper-bundle.min.css'
+import 'swiper/swiper.min.css'
 // import { Link } from 'react-router-dom';
 
 // import Button from '../button/Button';

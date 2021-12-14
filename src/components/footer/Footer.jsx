@@ -14,10 +14,9 @@ const Footer = () => {
                 <div className="footer__content__logo">
                     <div className="logo">
                         <img src={logo} alt="" />
-                        <Link to="/">PENIKMAT.FILM</Link>
+                        <Link to="/">Devi Film</Link>
                     </div>
                 </div>
-                <h2><center>Copyright © 2021 Muhammad Taufiq / 11850114991</center></h2>
             </div>
         </div>
     );
